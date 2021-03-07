@@ -9,7 +9,9 @@ ToDo:
 - Decide on template. [Examples](https://jamstackthemes.dev/theme/#ssg=next)
 - Test mail subscription setup.
   - Could open new mailgun account and add config to heroku
-- 
+- modify UI. Eg
+  - discord link instead of facebook link
+  - 
 
 ---
 
