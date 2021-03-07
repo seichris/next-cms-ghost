@@ -3,11 +3,12 @@ ToDo:
 - Chris' Heroku > cadcad ?
 - Chris' Github > cadcad organisation
 - Chris' Netlify > cadcad ?
-- custom domain: blog.cadcad.org ? When changed, edit:
+- Custom domain: blog.cadcad.org ? When changed, edit:
   - URL variable in heroku
   - SITE_URL environment variable
-- decide on template. [Examples](https://jamstackthemes.dev/theme/#ssg=next)
-- test mail subscription setup
+- Decide on template. [Examples](https://jamstackthemes.dev/theme/#ssg=next)
+- Test mail subscription setup.
+  - Could open new mailgun account and add config to heroku
 - 
 
 ---
